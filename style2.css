@@ -1,0 +1,84 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #010e1b;
+  line-height: 1.6;
+  color: #160f0f;
+}
+
+header {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  background-image: url("frontend\ image\ 2.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav {
+  background: #474a6e;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: rgb(240, 221, 237);
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0d6efd;
+}
+
+section {
+  padding: 30px;
+  margin: 20px;
+  background: rgb(175, 126, 126);
+  border-radius: 8px;
+}
+
+h2 {
+  color: #223947;
+  margin-bottom: 15px;
+}
+
+.card {
+  background: #e9ecef;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-box {
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  background: #0d6efd;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #084298;
+}
+
+footer {
+  background: #534d4d;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
